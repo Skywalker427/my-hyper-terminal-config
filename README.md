@@ -2,6 +2,7 @@
 Config, themes and plugin setup for my hyper terminal
 
 
+
 # MIT License
 
 Copyright (c) 2020 Hamzah Bawah
